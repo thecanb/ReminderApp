@@ -1,0 +1,212 @@
+"Finans" = "Finance";
+"Yatırımlar" = "Investments";
+"Birikim Hedefleri" = "Savings Goals";
+"Krediler" = "Loans";
+"Piyasalar" = "Markets";
+"Bekleyen" = "Pending";
+"Tamamlanan" = "Completed";
+"Ayarlar" = "Settings";
+"Para Birimi" = "Currency";
+"Tema" = "Theme";
+"Dil" = "Language";
+"Anımsatıcılar" = "Reminders";
+"Renk" = "Color";
+"İkon" = "ICON";
+"İkon Ara" = "Search Icon";
+// Group Management
+"Grup Adı" = "Group Name";
+"Simge" = "Icon";
+"Renk" = "Color";
+"Grubu Düzenle" = "Edit Group";
+"İptal" = "Cancel";
+"Kaydet" = "Save";
+
+
+// Üst Menü
+"Anımsatıcılar" = "Reminders";
+"Bekleyen" = "Pending";
+"Tamamlanan" = "Completed";
+"Grup Adı" = "Group Name";
+"İKON" = "ICON";
+
+// Masraflar ve Gelirler
+"Gelir" = "Income";
+"Gider" = "Expense";
+"Kalan" = "Balance";
+"Kategoriler" = "Categories";
+"Toplam" = "Total";
+"Net" = "Net";
+"Hesap Hareketleri" = "Transactions";
+"Yeni Gelir" = "New Income";
+"Gelirler" = "Income";
+"Harcamalar" = "Expenses";
+"Özet" = "Summary";
+"Toplam Gelir" = "Total Income";
+"Toplam Gider" = "Total Expenses";
+"Net Durum" = "Net Status";
+
+// Masraflar View
+"Masraflar" = "Expenses";
+"Harcama Ekle" = "Add Expense";
+"Gelir Ekle" = "Add Income";
+"Henüz bir dönem yok" = "No period yet";
+"harcama" = "expense";
+"Hesap Hareketleri" = "Transactions";
+
+// Finans
+"Yatırımlar" = "Investments";
+"Birikim Hedefleri" = "Savings Goals";
+"Krediler" = "Loans";
+"Piyasalar" = "Markets";
+"Döviz" = "Currency";
+"Kripto" = "Crypto";
+
+
+
+// Ana Başlıklar
+"Anımsatıcılar" = "Reminders";
+"Bildirimler" = "Notifications";
+"Bekleyen" = "Pending";
+"Tamamlanan" = "Completed";
+"Gruplar" = "Groups";
+"Alışveriş" = "Shopping";
+"Masraflar" = "Expenses";
+"Finans" = "Finance";
+"Ayarlar" = "Settings";
+
+// Anımsatıcılar
+"Yeni Anımsatıcı" = "New Reminder";
+"Yeni Grup" = "New Group";
+"Başlık" = "Title";
+"Notlar" = "Notes";
+"Tarih ve Saat Ekle" = "Add Date and Time";
+"Öncelik" = "Priority";
+"Düşük" = "Low";
+"Normal" = "Normal";
+"Yüksek" = "High";
+"İptal" = "Cancel";
+"Ekle" = "Add";
+"Tarih ve Saat" = "Date and Time";
+"Tamamlananlar" = "Completed";
+"Tamamlanan Anımsatıcı Yok" = "No Completed Reminders";
+"Tamamladığınız anımsatıcılar burada görünecek" = "Your completed reminders will appear here";
+"Kapat" = "Close";
+"Düzenle" = "Edit";
+"Tamamlandı" = "Completed";
+"Sil" = "Delete";
+
+// Alışveriş
+"Alışveriş Listesi" = "Shopping List";
+"Yeni Ürün" = "New Item";
+"Fiyat" = "Price";
+"Ürün Fotoğrafı" = "Product Photo";
+"Fotoğraf Seç" = "Choose Photo";
+"Ürün Adı" = "Product Name";
+"Adet" = "Pcs";
+"Ürün Detayı" = "Product Detail";
+"Ürün Sayfasını Aç" = "Open Product Page";
+"Fotoğrafı Değiştir" = "Change Photo";
+"Arşivle" = "Archive";
+
+// Masraflar
+"Gelir" = "Income";
+"Gelir Ekle" = "Add Income";
+"Gider" = "Expense";
+"Kalan" = "Remaining";
+"Toplam" = "Total";
+"Net" = "Net";
+"Harcama" = "Expense";
+"Harcama Ekle" = "Add Expense";
+"Kategoriler" = "Categories";
+"Tutar" = "Amount";
+"Kategori" = "Category";
+"Market" = "Grocery";
+"Ulaşım" = "Transportation";
+"Faturalar" = "Bills";
+"Eğlence" = "Entertainment";
+"Sağlık" = "Health";
+"Giyim" = "Clothing";
+"Eğitim" = "Education";
+"Diğer" = "Other";
+"Özel" = "Custom";
+"Yeni Harcama" = "New Expense";
+
+// Finans
+"Net Varlık" = "Net Worth";
+"Yatırımlar" = "Investments";
+"Birikimler" = "Savings";
+"Krediler" = "Loans";
+"Portföy Değeri" = "Portfolio Value";
+"Yatırım" = "Investment";
+"Kar/Zarar" = "Profit/Loss";
+"Yatırım Adı" = "Investment Name";
+"Yatırım Tutarı" = "Investment Amount";
+"Güncel Değer" = "Current Value";
+"Yatırım Tipi" = "Investment Type";
+"Hisse Senedi" = "Stock";
+"Kripto Para" = "Cryptocurrency";
+"Altın" = "Gold";
+"Döviz" = "Foreign Exchange";
+"Fon" = "Fund";
+"Tahvil" = "Bond";
+"Tarih" = "Date";
+"Yeni Yatırım" = "New Investment";
+
+// Birikim Hedefleri
+"Birikim Hedefleri" = "Savings Goals";
+"Toplam Birikim" = "Total Savings";
+"Yeni Hedef" = "New Goal";
+"Hedef Adı" = "Goal Name";
+"Hedef Tutarı" = "Target Amount";
+"Mevcut Tutar" = "Current Amount";
+"Son Tarih" = "Deadline";
+
+// Krediler
+"Toplam Borç" = "Total Debt";
+"Yeni Kredi" = "New Loan";
+"Kredi Adı" = "Loan Name";
+"Kredi Tutarı" = "Loan Amount";
+"Kalan Tutar" = "Remaining Amount";
+"Faiz Oranı (%)" = "Interest Rate (%)";
+"Kredi Tipi" = "Loan Type";
+"Başlangıç" = "Start Date";
+"Bitiş" = "End Date";
+"İhtiyaç Kredisi" = "Personal Loan";
+"Konut Kredisi" = "Mortgage";
+"Taşıt Kredisi" = "Auto Loan";
+"Öğrenim Kredisi" = "Student Loan";
+"İşletme Kredisi" = "Business Loan";
+
+// Piyasalar
+"Piyasalar" = "Markets";
+"Döviz Kurları" = "Exchange Rates";
+"Kripto" = "Crypto";
+
+// Ayarlar
+"Görünüm ve Dil" = "Display & Language";
+"Tema" = "Theme";
+"Açık" = "Light";
+"Koyu" = "Dark";
+"Sistem" = "System";
+"Dil" = "Language";
+"Para Birimi" = "Currency";
+"Bildirimlere İzin Ver" = "Enable Notifications";
+"Erken Bildirim" = "Early Notification";
+"15 dakika önce" = "15 minutes before";
+"30 dakika önce" = "30 minutes before";
+"1 saat önce" = "1 hour before";
+"Veri Yönetimi" = "Data Management";
+"Tüm Verileri Sıfırla" = "Reset All Data";
+"Yasal" = "Legal";
+"Gizlilik Politikası" = "Privacy Policy";
+"Kullanıcı Sözleşmesi" = "Terms of Service";
+"Uygulama Bilgileri" = "App Information";
+"Versiyon" = "Version";
+"Geliştirici" = "Developer";
+"Uygulamayı Değerlendir" = "Rate App";
+"İletişim" = "Contact";
+"E-posta" = "Email";
+
+
+// Uyarılar
+"Tüm verileriniz kalıcı olarak silinecek. Bu işlem geri alınamaz." = "All your data will be permanently deleted. This action cannot be undone.";
